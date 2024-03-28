@@ -1,0 +1,22 @@
+@media(max-width:767px){
+    p{
+        font-size: 13px;
+    }
+    .nav-link{
+        margin-left: 0;
+    }
+    .terms{
+    text-align: center;
+    }
+    .social-icons ul {
+        justify-content: center;
+    }
+    .button-div input {
+        padding: 5px 13px;
+        margin-bottom: 30px;
+    }
+    footer {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+}
